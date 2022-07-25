@@ -1,5 +1,5 @@
 ## Alan Kodoev
-<span style="color: blue"> <h3> Full Stack Developer</h3>
+<span style="color: blue"> #### Full Stack Developer
 <p>201-253-8017
 aldis16@gmail.com
 Brooklyn, NY
