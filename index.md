@@ -1,9 +1,11 @@
 ## Alan Kodoev
-<span style="color: blue"> #### Full Stack Developer
+#### Full Stack Developer
 201-253-8017
+
 aldis16@gmail.com
+
 Brooklyn, NY 
-</span>
+
 
 ### PROFILE
 I am junior web developer with one year of experience in web
