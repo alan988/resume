@@ -15,14 +15,14 @@ Freelance
  - Work with SQL and NoSQL databases
  - Analysis and correction of the existing website
  - Testing website
-#### COURSES && TRAININGS
+### COURSES && TRAININGS
 Understanding TypeScript
 [Udemy.com](https://www.udemy.com/certificate/UC-27273521-f08a-4acd-802e-c28507f76eef/)
 
 JavaScript - The complite guide
 [Udemy.com](https://www.udemy.com/certificate/UC-528c5d74-2937-4b57-85ca-ef9018a0473b/)
 
-#### SKILLS
+### SKILLS
 - JavaScript, TypeScript
 - ReactJS
 - NodeJS
@@ -32,7 +32,7 @@ JavaScript - The complite guide
 - Bootstrap, Material UI, CSS, SCSS, SASS(modules, mixins)
 - Photoshop, Illustrator
 
-#### EDUCATION
+### EDUCATION
 BACHELOR OF ECONOMICS
 MOGI
 2014-2018
@@ -41,7 +41,7 @@ BACHELOR OF ART
 MPGU
 1994-1999
 
-#### INTERESTS
+### INTERESTS
 - Machine Learning
 - Artificial Intelligence
 - Financial Technology
