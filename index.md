@@ -4,7 +4,7 @@
 
 aldis16@gmail.com
 
-Brooklyn, NY 
+Brooklyn, NY
 
 
 ### PROFILE
@@ -62,3 +62,6 @@ MPGU
 - Artificial Intelligence
 - Financial Technology
 - Japanese and French language
+
+##### Personal project
+[AuruMonkey](https://github.com/auruMonkey)
