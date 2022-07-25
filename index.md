@@ -1,3 +1,5 @@
+
+![Profile photo]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/alan988/resume/blob/gh-pages/chicago.jpg))
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alan988/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
